@@ -1,1 +1,1 @@
-# silicone-stories.github.io
+This is the begining of Silicone Stories.
